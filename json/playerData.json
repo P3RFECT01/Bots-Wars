@@ -1,0 +1,5 @@
+{"player": 
+[{"name": "", "health": 50, "attack": "08", "defence": "06", "speed": "05","type":"attacker"},
+{"name": "", "health": 50, "attack": "06", "defence": "10", "speed": "3","type":"tank"},
+{"name": "", "health": 50, "attack": "07", "defence": "03", "speed": "10","type":"speedster"}
+]}

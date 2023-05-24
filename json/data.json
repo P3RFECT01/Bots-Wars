@@ -1,0 +1,53 @@
+{"enemys":[   "Erwin"{
+
+        {"asualter":"Eren",
+        "attack":075,
+        "defense":030,
+        "speed":030},
+
+        {"tank":"Reiner",
+        "attack":020,
+        "defense":070,
+        "speed":020},
+
+        {"speedster":"Levi",
+        "attack":040,
+        "defense":030,
+        "speed":040}}
+
+    "Naruto"{
+
+        {"asualter":"Sakura",
+        "attack":065,
+        "defense":030,
+        "speed":020},
+
+        {"tank":"Choji",
+        "attack":015,
+        "defense":080,
+        "speed":015},
+
+        {"speedster":"Minato",
+        "attack":050,
+        "defense":045,
+        "speed":080}
+    },
+
+    "Leon"{
+
+        {"asualter":"Blue",
+        "attack":070,
+        "defense":030,
+        "speed":025},
+
+        {"tank":"Red",
+        "attack":025,
+        "defense":065,
+        "speed":020},
+
+        {"speedster":"Green",
+        "attack":020,
+        "defense":030,
+        "speed":065}
+    }
+]}
